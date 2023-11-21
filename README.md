@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tylired
+- 👀 I’m interested in web development, video games, visual effects, music, and more.
+- 🌱 I’m currently learning Drupal and Git.
+- 💞️ I’m looking to collaborate on my evil plan to save the world.
+- 📫 Reach me at tylor.reed@directdivdesign.com
